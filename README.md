@@ -9,3 +9,4 @@
 [7. Pre Trained ImageNet Models](07_Pre_Trained_ImageNet_Models/readme.md)<br>
 [8. Keras Fine Tune Pre Trained Models GTSRB](08_Keras_Fine_Tune_Pre_Trained_Models_GTSRB/readme.md)<br>
 [9. Keras Segmentation TensorFlow Hub](09_Keras_Segmentation_TensorFlow_Hub/readme.md)<br>
+[10. Inference Object Detection Tensorflow Hub](10_Inference_Object_Detection_Tensorflow_Hub/readme.md)<br>
